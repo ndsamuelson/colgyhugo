@@ -9,7 +9,7 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 hugo -t ananke -D  # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
-cd public
+cd docs
 
 # Add changes to git.
 git add .
@@ -19,7 +19,7 @@ msg="rebuilding site $(date)"
 if [ -n "$*" ]; then
 	msg="$*"
 fi
-yolo
+git commit -m "$(curl -s http://whatthecommit.com/index.txt)"
 
 # Push source and build repos.
 git push origin master
