@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ndsamuelson.github.io/colgyhugo/categories/</loc>
+    <loc>https://ndsamuelson.github.io/colgyhugo/posts/my-first-post/</loc>
+    <lastmod>2020-03-16T04:41:53-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://ndsamuelson.github.io/colgyhugo/</loc>
+    <lastmod>2020-03-16T04:41:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ndsamuelson.github.io/colgyhugo/posts/</loc>
+    <lastmod>2020-03-16T04:41:53-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ndsamuelson.github.io/colgyhugo/categories/</loc>
   </url>
   
   <url>
