@@ -1,5 +1,5 @@
 baseURL = "https://ndsamuelson.github.io/colgyhugo"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "ananke"
+theme = "somrat"
 publishDir = "docs"
