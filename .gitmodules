@@ -4,7 +4,3 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
-[submodule "public"]
-	path = public
-	url = https://github.com/ndsamuelson/colgyhugo.git
-	branch = master
